@@ -20,4 +20,4 @@ you can make:
 those are the types of mods you can make.
 
 ## CREDIT
-By: @Natejoestev
+By: [@Natejoestev](https://github.com/Natejoestev)
