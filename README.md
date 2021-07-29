@@ -13,8 +13,8 @@
 ## WHAT CAN YOU MAKE
 
 you can make:
-- [ ] Normal mods,\
-- [ ] Normal mods with part injection,\
+- [ ] Normal mods,
+- [ ] Normal mods with part injection,
 - [ ] Survival mods
 
 those are the types of mods you can make.
