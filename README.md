@@ -8,6 +8,7 @@
 > - LUA
 > - SM LUA api
 > - SM Folder Structure
+> - 3D Textures
 
 ## WHAT CAN YOU MAKE
 
@@ -17,3 +18,6 @@ you can make:
 > Survival mods
 
 those are the types of mods you can make.
+
+## CREDIT
+By: @Natejoestev
