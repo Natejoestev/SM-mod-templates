@@ -19,5 +19,21 @@ you can make:
 
 those are the types of mods you can make.
 
+## INSTALL YOUR MOD TYPE
+
+if your mod type is an "All game mod" do the other steps
+
+To install you'r mod type,
+1. open the "Scrap Mechanic Mod Tool"
+2. create a new mod with the name of your choice
+3. copy all the files from your mod type into you'r mod files
+4. follow the instructions for you'r mod type in the "about.txt" file
+
+### For "All game mod"s do this
+1. create a new folder called "All game mods"
+2. in that folder create a folder with the title of you'r choice
+3. copy all the files from the "All game mod" type into you'r mod folder
+4. follow the instructions for you'r mod in the "about.txt" file
+
 ## CREDIT
 By: @Natejoestev [Github](https://github.com/Natejoestev) [Steam](https://steamcommunity.com/profiles/76561198990557860)
