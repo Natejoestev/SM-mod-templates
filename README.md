@@ -21,7 +21,7 @@ those are the types of mods you can make.
 
 ## INSTALL YOUR MOD TYPE
 
-if your mod type is an "All game mod" do the other steps
+if your mod type is an "All game mod" do [These steps](https://github.com/Natejoestev/SM-mod-templates/blob/main/README.md#for-all-game-mods-do-this)
 
 To install you'r mod type,
 1. open the "Scrap Mechanic Mod Tool"
