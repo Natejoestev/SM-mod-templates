@@ -1,4 +1,4 @@
-# SM-mod-templates
+# SM mod templates
 
 ## ABOUT
 
