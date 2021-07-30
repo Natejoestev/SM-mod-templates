@@ -13,9 +13,9 @@
 ## WHAT CAN YOU MAKE
 
 you can make:
-- [ ] Normal mods,
-- [ ] Normal mods with part injection,
-- [ ] Survival mods
+- [Normal mods,](https://github.com/Natejoestev/SM-mod-templates/tree/main/Mod%20types/Normal%20mods)
+- [Normal mods with part injection,](https://github.com/Natejoestev/SM-mod-templates/tree/main/Mod%20types/Normal%20mods%20with%20part%20injection)
+- [All game mods](https://github.com/Natejoestev/SM-mod-templates/tree/main/Mod%20types/All%20game%20mods)
 
 those are the types of mods you can make.
 
