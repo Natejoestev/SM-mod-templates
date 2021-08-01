@@ -37,3 +37,5 @@ To install you'r mod type,
 
 ## CREDIT
 By: @Natejoestev [Github](https://github.com/Natejoestev) [Steam](https://steamcommunity.com/profiles/76561198990557860)
+
+SM: [SM lua api](https://scrapmechanic.com/api/index.html)
